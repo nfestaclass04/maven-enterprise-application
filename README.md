@@ -1,1 +1,0 @@
-# maven-enterprise-application
